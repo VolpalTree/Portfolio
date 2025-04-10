@@ -54,12 +54,13 @@ a:hover {
     align-items: center;
     height: 100vh;
     text-align: center;
+    color: white;
 
     background-image: url("Images/maxresdefault-3618239950.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: black;
+
 }
 .hero-tagline {
     font-size: 1.2rem;
